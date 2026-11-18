@@ -3,6 +3,7 @@
 Aplicacion web Full Stack para la gestion de pedidos de comida, catalogo de productos y administracion operativa, desarrollada con **FastAPI + SQLModel + PostgreSQL** en el backend y **React 19 + TypeScript + Vite + Tailwind CSS v4** en el frontend.
 
 **Link al Video Presentacion: https://youtu.be/u6EQiXPlF2o**
+
 **Link al Repositorio (Github): https://github.com/Usinarock71/tpi-food-store**
 
 ---
